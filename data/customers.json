@@ -1,0 +1,197 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Sok Dara",
+    "phone": "012 345 678"
+  },
+  {
+    "customer_id": 2,
+    "name": "Chan Sreymom",
+    "phone": "098 765 432"
+  },
+  {
+    "customer_id": 3,
+    "name": "Vannak Chea",
+    "phone": "017 223 455"
+  },
+  {
+    "customer_id": 4,
+    "name": "Srey Pich",
+    "phone": "096 331 778"
+  },
+  {
+    "customer_id": 5,
+    "name": "Rithy Sam",
+    "phone": "085 442 190"
+  },
+  {
+    "customer_id": 6,
+    "name": "Sophea Lim",
+    "phone": "070 918 264"
+  },
+  {
+    "customer_id": "W001",
+    "name": "Walk-in W001",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W002",
+    "name": "Walk-in W002",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W003",
+    "name": "Walk-in W003",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W004",
+    "name": "Walk-in W004",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W005",
+    "name": "Walk-in W005",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W006",
+    "name": "Walk-in W006",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W007",
+    "name": "Walk-in W007",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W008",
+    "name": "Walk-in W008",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W009",
+    "name": "Walk-in W009",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W010",
+    "name": "Walk-in W010",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W011",
+    "name": "Walk-in W011",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W012",
+    "name": "Walk-in W012",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W013",
+    "name": "Walk-in W013",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W014",
+    "name": "Walk-in W014",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W015",
+    "name": "Walk-in W015",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W016",
+    "name": "Walk-in W016",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W017",
+    "name": "Walk-in W017",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W018",
+    "name": "Walk-in W018",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W019",
+    "name": "Walk-in W019",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W020",
+    "name": "Walk-in W020",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W021",
+    "name": "Walk-in W021",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W022",
+    "name": "Walk-in W022",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W023",
+    "name": "Walk-in W023",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W024",
+    "name": "Walk-in W024",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W025",
+    "name": "Walk-in W025",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W026",
+    "name": "Walk-in W026",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W027",
+    "name": "Walk-in W027",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W028",
+    "name": "Walk-in W028",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W029",
+    "name": "Walk-in W029",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W030",
+    "name": "Walk-in W030",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W031",
+    "name": "Walk-in W031",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W032",
+    "name": "Walk-in W032",
+    "phone": "-"
+  },
+  {
+    "customer_id": "W033",
+    "name": "Walk-in W033",
+    "phone": "-"
+  }
+]

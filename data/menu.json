@@ -1,0 +1,68 @@
+[
+  {
+    "item_id": 1,
+    "name": "Fried Rice",
+    "price": 3.5,
+    "category": "Food"
+  },
+  {
+    "item_id": 2,
+    "name": "Beef Lok Lak",
+    "price": 5.5,
+    "category": "Food"
+  },
+  {
+    "item_id": 3,
+    "name": "Fish Amok",
+    "price": 6.0,
+    "category": "Food"
+  },
+  {
+    "item_id": 4,
+    "name": "Chicken Noodle Soup",
+    "price": 4.0,
+    "category": "Food"
+  },
+  {
+    "item_id": 5,
+    "name": "Pork Skewers",
+    "price": 3.0,
+    "category": "Food"
+  },
+  {
+    "item_id": 6,
+    "name": "Iced Coffee",
+    "price": 2.0,
+    "category": "Drink"
+  },
+  {
+    "item_id": 7,
+    "name": "Fresh Orange Juice",
+    "price": 2.5,
+    "category": "Drink"
+  },
+  {
+    "item_id": 8,
+    "name": "Coconut Water",
+    "price": 1.75,
+    "category": "Drink"
+  },
+  {
+    "item_id": 9,
+    "name": "Milk Tea",
+    "price": 2.25,
+    "category": "Drink"
+  },
+  {
+    "item_id": 10,
+    "name": "Bottled Water",
+    "price": 0.75,
+    "category": "Drink"
+  },
+  {
+    "item_id": 11,
+    "name": "cake",
+    "price": 2.0,
+    "category": "Drink"
+  }
+]

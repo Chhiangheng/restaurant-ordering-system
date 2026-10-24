@@ -1,0 +1,2534 @@
+[
+  {
+    "order_id": 1,
+    "customer_id": 5,
+    "status": "Cancelled",
+    "created_at": "2026-09-14 10:49:00",
+    "items": [
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 2,
+    "customer_id": 1,
+    "status": "Cancelled",
+    "created_at": "2026-09-14 12:34:00",
+    "items": [
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 3,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-09-14 16:44:00",
+    "items": [
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 4,
+    "customer_id": 2,
+    "status": "Billed",
+    "created_at": "2026-09-15 13:46:00",
+    "items": [
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 5,
+    "customer_id": 5,
+    "status": "Billed",
+    "created_at": "2026-09-16 11:04:00",
+    "items": [
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 2
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 6,
+    "customer_id": 2,
+    "status": "Billed",
+    "created_at": "2026-09-16 11:39:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 7,
+    "customer_id": 1,
+    "status": "Billed",
+    "created_at": "2026-09-16 19:20:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 8,
+    "customer_id": "W001",
+    "status": "Billed",
+    "created_at": "2026-09-17 10:40:00",
+    "items": [
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 2
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 9,
+    "customer_id": "W002",
+    "status": "Billed",
+    "created_at": "2026-09-17 11:19:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 10,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-09-17 19:31:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 11,
+    "customer_id": 2,
+    "status": "Billed",
+    "created_at": "2026-09-17 19:46:00",
+    "items": [
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 2
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 12,
+    "customer_id": 2,
+    "status": "Billed",
+    "created_at": "2026-09-18 12:34:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 13,
+    "customer_id": 3,
+    "status": "Billed",
+    "created_at": "2026-09-18 13:56:00",
+    "items": [
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 3
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 14,
+    "customer_id": 6,
+    "status": "Billed",
+    "created_at": "2026-09-18 16:07:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 15,
+    "customer_id": 3,
+    "status": "Billed",
+    "created_at": "2026-09-18 16:29:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 16,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-09-19 12:05:00",
+    "items": [
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 17,
+    "customer_id": 5,
+    "status": "Billed",
+    "created_at": "2026-09-19 16:12:00",
+    "items": [
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 2
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 18,
+    "customer_id": "W003",
+    "status": "Billed",
+    "created_at": "2026-09-19 18:05:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      },
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 19,
+    "customer_id": 6,
+    "status": "Billed",
+    "created_at": "2026-09-20 13:24:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 20,
+    "customer_id": 6,
+    "status": "Billed",
+    "created_at": "2026-09-20 18:50:00",
+    "items": [
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 21,
+    "customer_id": "W004",
+    "status": "Billed",
+    "created_at": "2026-09-21 18:10:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 22,
+    "customer_id": 6,
+    "status": "Billed",
+    "created_at": "2026-09-22 16:45:00",
+    "items": [
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 23,
+    "customer_id": 5,
+    "status": "Billed",
+    "created_at": "2026-09-23 15:58:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 24,
+    "customer_id": "W005",
+    "status": "Billed",
+    "created_at": "2026-09-23 18:05:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 25,
+    "customer_id": 6,
+    "status": "Billed",
+    "created_at": "2026-09-24 12:14:00",
+    "items": [
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 26,
+    "customer_id": "W006",
+    "status": "Billed",
+    "created_at": "2026-09-24 17:09:00",
+    "items": [
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 27,
+    "customer_id": 5,
+    "status": "Billed",
+    "created_at": "2026-09-24 19:17:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 2
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 28,
+    "customer_id": "W007",
+    "status": "Billed",
+    "created_at": "2026-09-25 13:24:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 29,
+    "customer_id": 1,
+    "status": "Billed",
+    "created_at": "2026-09-25 15:33:00",
+    "items": [
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 30,
+    "customer_id": 2,
+    "status": "Billed",
+    "created_at": "2026-09-25 18:37:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 31,
+    "customer_id": 2,
+    "status": "Billed",
+    "created_at": "2026-09-25 18:44:00",
+    "items": [
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 32,
+    "customer_id": "W008",
+    "status": "Billed",
+    "created_at": "2026-09-26 15:02:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 33,
+    "customer_id": 2,
+    "status": "Billed",
+    "created_at": "2026-09-26 18:44:00",
+    "items": [
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 34,
+    "customer_id": 1,
+    "status": "Cancelled",
+    "created_at": "2026-09-26 18:49:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 35,
+    "customer_id": 5,
+    "status": "Billed",
+    "created_at": "2026-09-27 17:44:00",
+    "items": [
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 36,
+    "customer_id": 6,
+    "status": "Cancelled",
+    "created_at": "2026-09-28 13:30:00",
+    "items": [
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 37,
+    "customer_id": 5,
+    "status": "Billed",
+    "created_at": "2026-09-28 14:56:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 38,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-09-28 19:03:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 39,
+    "customer_id": 6,
+    "status": "Billed",
+    "created_at": "2026-09-29 12:12:00",
+    "items": [
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 40,
+    "customer_id": 3,
+    "status": "Billed",
+    "created_at": "2026-09-30 17:50:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 41,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-10-01 10:01:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 3
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 42,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-10-01 15:43:00",
+    "items": [
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 43,
+    "customer_id": "W009",
+    "status": "Billed",
+    "created_at": "2026-10-02 12:33:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 44,
+    "customer_id": "W010",
+    "status": "Billed",
+    "created_at": "2026-10-02 14:50:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 45,
+    "customer_id": "W011",
+    "status": "Billed",
+    "created_at": "2026-10-02 18:26:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 46,
+    "customer_id": "W012",
+    "status": "Billed",
+    "created_at": "2026-10-03 10:03:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 47,
+    "customer_id": "W013",
+    "status": "Billed",
+    "created_at": "2026-10-03 11:11:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 48,
+    "customer_id": "W014",
+    "status": "Billed",
+    "created_at": "2026-10-03 17:47:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 49,
+    "customer_id": "W015",
+    "status": "Billed",
+    "created_at": "2026-10-04 11:02:00",
+    "items": [
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 2
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 50,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-10-04 11:41:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 51,
+    "customer_id": 1,
+    "status": "Billed",
+    "created_at": "2026-10-04 14:35:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 2
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 52,
+    "customer_id": "W016",
+    "status": "Cancelled",
+    "created_at": "2026-10-04 18:17:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 53,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-10-05 12:24:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 54,
+    "customer_id": 1,
+    "status": "Cancelled",
+    "created_at": "2026-10-05 15:09:00",
+    "items": [
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 55,
+    "customer_id": "W017",
+    "status": "Billed",
+    "created_at": "2026-10-05 16:55:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 56,
+    "customer_id": "W018",
+    "status": "Billed",
+    "created_at": "2026-10-05 17:41:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 57,
+    "customer_id": 3,
+    "status": "Billed",
+    "created_at": "2026-10-06 10:50:00",
+    "items": [
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 58,
+    "customer_id": 6,
+    "status": "Billed",
+    "created_at": "2026-10-06 12:10:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 59,
+    "customer_id": "W019",
+    "status": "Billed",
+    "created_at": "2026-10-06 12:54:00",
+    "items": [
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 60,
+    "customer_id": 5,
+    "status": "Billed",
+    "created_at": "2026-10-06 19:23:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 61,
+    "customer_id": 3,
+    "status": "Billed",
+    "created_at": "2026-10-07 11:03:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 62,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-10-07 15:46:00",
+    "items": [
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 63,
+    "customer_id": "W020",
+    "status": "Billed",
+    "created_at": "2026-10-07 18:30:00",
+    "items": [
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 64,
+    "customer_id": 1,
+    "status": "Cancelled",
+    "created_at": "2026-10-08 12:08:00",
+    "items": [
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 65,
+    "customer_id": 5,
+    "status": "Billed",
+    "created_at": "2026-10-09 14:27:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 66,
+    "customer_id": "W021",
+    "status": "Billed",
+    "created_at": "2026-10-09 16:37:00",
+    "items": [
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 67,
+    "customer_id": 6,
+    "status": "Cancelled",
+    "created_at": "2026-10-10 10:22:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 68,
+    "customer_id": 3,
+    "status": "Billed",
+    "created_at": "2026-10-11 16:11:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 69,
+    "customer_id": 3,
+    "status": "Billed",
+    "created_at": "2026-10-11 16:45:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 2
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 70,
+    "customer_id": 1,
+    "status": "Billed",
+    "created_at": "2026-10-11 17:10:00",
+    "items": [
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 71,
+    "customer_id": "W022",
+    "status": "Billed",
+    "created_at": "2026-10-12 11:21:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 72,
+    "customer_id": 3,
+    "status": "Cancelled",
+    "created_at": "2026-10-13 10:02:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 2
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 73,
+    "customer_id": 3,
+    "status": "Billed",
+    "created_at": "2026-10-13 11:20:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 3
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 74,
+    "customer_id": 1,
+    "status": "Billed",
+    "created_at": "2026-10-13 11:51:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 75,
+    "customer_id": "W023",
+    "status": "Billed",
+    "created_at": "2026-10-13 12:53:00",
+    "items": [
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 76,
+    "customer_id": "W024",
+    "status": "Cancelled",
+    "created_at": "2026-10-14 18:06:00",
+    "items": [
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 2
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 77,
+    "customer_id": "W025",
+    "status": "Billed",
+    "created_at": "2026-10-15 12:34:00",
+    "items": [
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 78,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-10-15 14:01:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 79,
+    "customer_id": 6,
+    "status": "Billed",
+    "created_at": "2026-10-15 15:35:00",
+    "items": [
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 80,
+    "customer_id": 6,
+    "status": "Billed",
+    "created_at": "2026-10-16 14:34:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 81,
+    "customer_id": 3,
+    "status": "Billed",
+    "created_at": "2026-10-16 14:46:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 82,
+    "customer_id": 2,
+    "status": "Billed",
+    "created_at": "2026-10-16 19:40:00",
+    "items": [
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 83,
+    "customer_id": 6,
+    "status": "Billed",
+    "created_at": "2026-10-17 13:02:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 84,
+    "customer_id": 3,
+    "status": "Billed",
+    "created_at": "2026-10-17 17:39:00",
+    "items": [
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 85,
+    "customer_id": 3,
+    "status": "Cancelled",
+    "created_at": "2026-10-17 18:44:00",
+    "items": [
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 86,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-10-18 11:04:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 3
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 87,
+    "customer_id": "W026",
+    "status": "Billed",
+    "created_at": "2026-10-18 16:57:00",
+    "items": [
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 88,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-10-18 18:15:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 89,
+    "customer_id": "W027",
+    "status": "Billed",
+    "created_at": "2026-10-18 19:21:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 90,
+    "customer_id": 5,
+    "status": "Billed",
+    "created_at": "2026-10-19 12:29:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 91,
+    "customer_id": 1,
+    "status": "Billed",
+    "created_at": "2026-10-19 15:56:00",
+    "items": [
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 92,
+    "customer_id": 1,
+    "status": "Billed",
+    "created_at": "2026-10-20 13:07:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 1
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 1
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 93,
+    "customer_id": "W028",
+    "status": "Billed",
+    "created_at": "2026-10-20 18:04:00",
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 94,
+    "customer_id": 1,
+    "status": "Billed",
+    "created_at": "2026-10-21 16:16:00",
+    "items": [
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 95,
+    "customer_id": 1,
+    "status": "Billed",
+    "created_at": "2026-10-21 17:28:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 1
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 8,
+        "name": "Coconut Water",
+        "unit_price": 1.75,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 96,
+    "customer_id": "W029",
+    "status": "Billed",
+    "created_at": "2026-10-21 17:37:00",
+    "items": [
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 3
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 97,
+    "customer_id": "W030",
+    "status": "Billed",
+    "created_at": "2026-10-21 18:35:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 98,
+    "customer_id": 4,
+    "status": "Billed",
+    "created_at": "2026-10-22 12:27:00",
+    "items": [
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 5,
+        "name": "Pork Skewers",
+        "unit_price": 3.0,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 99,
+    "customer_id": 2,
+    "status": "Cancelled",
+    "created_at": "2026-10-22 14:20:00",
+    "items": [
+      {
+        "item_id": 6,
+        "name": "Iced Coffee",
+        "unit_price": 2.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 1
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 100,
+    "customer_id": "W031",
+    "status": "Billed",
+    "created_at": "2026-10-22 17:47:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 3
+      },
+      {
+        "item_id": 10,
+        "name": "Bottled Water",
+        "unit_price": 0.75,
+        "quantity": 3
+      },
+      {
+        "item_id": 2,
+        "name": "Beef Lok Lak",
+        "unit_price": 5.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 101,
+    "customer_id": 1,
+    "status": "Billed",
+    "created_at": "2026-10-23 12:29:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 3
+      },
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 2
+      },
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 102,
+    "customer_id": "W032",
+    "status": "Billed",
+    "created_at": "2026-10-23 16:08:00",
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 103,
+    "customer_id": 3,
+    "status": "Billed",
+    "created_at": "2026-10-23 19:51:00",
+    "items": [
+      {
+        "item_id": 3,
+        "name": "Fish Amok",
+        "unit_price": 6.0,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 104,
+    "customer_id": 1,
+    "status": "Billed",
+    "created_at": "2026-10-24 19:40:00",
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Milk Tea",
+        "unit_price": 2.25,
+        "quantity": 3
+      },
+      {
+        "item_id": 4,
+        "name": "Chicken Noodle Soup",
+        "unit_price": 4.0,
+        "quantity": 2
+      },
+      {
+        "item_id": 7,
+        "name": "Fresh Orange Juice",
+        "unit_price": 2.5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": 105,
+    "customer_id": "W033",
+    "status": "Open",
+    "created_at": "2026-10-24 23:13:00",
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Fried Rice",
+        "unit_price": 3.5,
+        "quantity": 9
+      }
+    ]
+  }
+]

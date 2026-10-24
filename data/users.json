@@ -1,0 +1,32 @@
+[
+  {
+    "user_id": 1,
+    "username": "admin",
+    "password_hash": "6a9d7d7aae9e1552618a10436e311fd1$777a1b2000974aa1d3dd921f8f6fb8f1e5a2f48696a54002467a97f1578a22c7",
+    "role": "admin",
+    "full_name": "System Administrator",
+    "active": true,
+    "created_at": "2026-10-24 16:03:39",
+    "last_login": "2026-10-24 23:13:42"
+  },
+  {
+    "user_id": 2,
+    "username": "manager",
+    "password_hash": "76030380d9e33409f388fd5ba31d7e35$5bb6765aa40ffd4fb5204109f491ee9f8277d40a3075d948f98eac449be7397c",
+    "role": "manager",
+    "full_name": "Restaurant Manager",
+    "active": true,
+    "created_at": "2026-10-24 16:03:39",
+    "last_login": ""
+  },
+  {
+    "user_id": 3,
+    "username": "cashier",
+    "password_hash": "be766766201e5fd25f3fb40ccc155d62$9f5964f6c85f0172f409f30ec22d35011517d5a9223071fba61428458f94ab2f",
+    "role": "cashier",
+    "full_name": "Front Desk Cashier",
+    "active": true,
+    "created_at": "2026-10-24 16:03:39",
+    "last_login": "2026-10-24 23:12:17"
+  }
+]
