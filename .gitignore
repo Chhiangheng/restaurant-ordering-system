@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.bak
+*.tmp
+.idea/
+.vscode/
+/data/orders.json
+/data/customers.json
+/data/users.json
+/data/menu.json
+/data/bills.json
